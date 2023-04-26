@@ -10,7 +10,9 @@
   "author": "Asly",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
     "colors": "^1.4.0",
+    "fs": "^0.0.1-security",
     "yargs": "^17.7.1"
   }
 }
